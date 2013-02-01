@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MVC.Helpers
+namespace Jmr.MVC.Helpers
 {
-    public class Class1
+    public class Web
     {
     }
 }

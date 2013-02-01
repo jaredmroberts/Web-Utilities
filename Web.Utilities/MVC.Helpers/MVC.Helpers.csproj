@@ -7,8 +7,8 @@
     <ProjectGuid>{DFCC0639-3E0B-4FED-A979-B5A48421C86F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MVC.Helpers</RootNamespace>
-    <AssemblyName>MVC.Helpers</AssemblyName>
+    <RootNamespace>Jmr.MVC.Helpers</RootNamespace>
+    <AssemblyName>Jmr.MVC.Helpers</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
