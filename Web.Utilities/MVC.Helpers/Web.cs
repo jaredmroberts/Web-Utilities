@@ -8,5 +8,9 @@ namespace Jmr.MVC.Helpers
 {
     public class Web
     {
+        public bool Test()
+        {
+            return true;
+        }
     }
 }
